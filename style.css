@@ -39,11 +39,11 @@ aside {
 }
 
 #search-box {
-    margin-bottom: 10%;
+    margin-bottom: 2%;
 }
 
 #search-button {
-    width: 175px;
+    width: 275px;
     display: inline-block;
     padding-top: 3%;
     padding-bottom: 3%;
@@ -51,16 +51,16 @@ aside {
     padding-right: 35%;
     background-color: var(--button-blue);
     border: solid 2px var(--button-blue);
-    border-radius: 4px;
+    border-radius: 10px;
     color: white;
 }
 
 #search-button:hover {
-    background-color: #3488e7;
+    background-color: #73adf0b4;
 }
 
 .btn {
-    width: 175px;
+    width: 275px;
     display: inline-block;
     padding-top: 3%;
     padding-bottom: 3%;
@@ -68,7 +68,7 @@ aside {
     padding-right: 35%;
     background-color: var(--button-gray);
     border: solid 2px var(--button-gray);
-    border-radius: 4px;
+    border-radius: 10px;
     color: black;
 }
 
@@ -77,12 +77,12 @@ aside {
 }
 
 .history {
-    margin-top: 8%;
+    margin-top: 5%;
 }
 
 #clear-button {
-    margin-top: 8%;
-    width: 175px;
+    margin-top: 2%;
+    width: 275px;
     display: inline-block;
     padding-top: 3%;
     padding-bottom: 3%;
@@ -90,12 +90,12 @@ aside {
     padding-right: 35%;
     background-color: var(--button-red);
     border: solid 2px var(--button-red);
-    border-radius: 4px;
+    border-radius: 10px;
     color: white;
 }
 
 #clear-button:hover {
-    background-color: #ff5b5b;
+    background-color: #f76c6c;
 }
 
 #forecast-body {
